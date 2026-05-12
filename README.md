@@ -1,5 +1,7 @@
 <h1 align="center"><img src="https://github.com/FrostSoftwareGT/.github/blob/main/byebye.gif?raw=true" width="40%"><br>hiya!</h1>
-<p align="center">Woelcome to Frost Software \nGorilla Tag Modding Group \n We Are Looking For Modders to join our group to make/help us</i><br><br>
+<p align="center">Woelcome to Frost Software
+  Gorilla Tag Modding Group
+  We Are Looking For Modders to join our group to make/help us</i><br><br>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
 </a>  
@@ -27,7 +29,7 @@
 <br><br>
 character in pfp: eilun by zaaru. <b>do not look them or the artist up.</b><br>
 services i've been falsely banned from: <b>6</b><br>
-favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/">little kitty big city<br><br><img src="https://github.com/FrostSoftwareGT/.github/blob/main/lkbc.jpg?raw=true" width="20%"></a></p>
+favorite game: <a href="https://https://store.steampowered.com/app/1533390/Gorilla_Tag/">Gorilla Tag<br><br><img src="https://github.com/FrostSoftwareGT/.github/blob/main/lkbc.jpg?raw=true" width="20%"></a></p>
 
 ---
 
@@ -35,12 +37,12 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
   <summary>github stats</summary>
 <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FrostSoftwareGT&layout=compact&langs_count=8" />
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frostedvrgt&layout=compact&langs_count=8" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=iiDk-the-actual" />
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FrostSoftwareGT" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=frostedvrgt" alt="GitHub Streak" /></a>
 </p>
 </details>
 
