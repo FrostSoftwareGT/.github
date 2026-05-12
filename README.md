@@ -1,12 +1,7 @@
-<h1 align="center"><img src="https://github.com/FrostSoftwareGT/.github/blob/main/byebye.gif?raw=true" width="40%"><br>hiya!</h1>
-<p align="center">Woelcome to Frost Software, Gorilla Tag Modding Group, We Are Looking For Modders to join our group to make/help us</i><br><br>
+<h1 align="center">Woelcome to Frost Software, Gorilla Tag Modding Group, We Are Looking For Modders to join our group to make/help us</h1>
 
 <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frostedvrgt&layout=compact&langs_count=8" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=frostedvrgt" />
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=frostedvrgt" alt="GitHub Streak" /></a>
 </p>
