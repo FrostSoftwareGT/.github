@@ -5,6 +5,7 @@
 ### 🦍 Gorilla Tag Modding Group
 
 > Building creative mods, mod menus, and experiences for the Gorilla Tag community.
+> Frost Software's stuff is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2026 Another Axiom LLC.
 
 </div>
 
